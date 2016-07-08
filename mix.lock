@@ -1,0 +1,3 @@
+%{"exsyslog": {:hex, :exsyslog, "1.0.1", "085132b77808a0da7e22317e3a0ada403f291d08b1f598b1879ed86bbc56bf27", [:mix], [{:syslog, "~> 1.0.2", [hex: :syslog, optional: false]}, {:poison, "~> 1.4", [hex: :poison, optional: false]}]},
+  "poison": {:hex, :poison, "1.5.2", "560bdfb7449e3ddd23a096929fb9fc2122f709bcc758b2d5d5a5c7d0ea848910", [:mix], []},
+  "syslog": {:hex, :syslog, "1.0.2", "9cf72c0986675a170c03b210e49700845a0f7b61e96d302a3ba0df82963daf60", [:rebar], []}}
